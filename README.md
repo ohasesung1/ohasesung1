@@ -1,5 +1,7 @@
 ### ✨Welcom to my profile!✨
 
+### 오해성 (O-HAESEONG)
+
 <!--
 **ohasesung1/ohasesung1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
