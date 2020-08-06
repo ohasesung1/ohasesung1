@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning typescript, Redux, graphQL
 - 👋 I’m looking for help with Redux saga, Docker
-
 - 📫 How to reach me: gotjd2720@gmail.com
+
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ohasesung1&show_icons=true)
