@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 -->
 
 🌱 I’m currently learning 
-- typescript
-- GraphQL
-- Next.js
+- typescript, Redux, Redux saga, FLUX
+- typeorm, socket.io, AWS Lamda
+- Next.js, GraphQL
 
 👋 I’m looking for help with
 - Redux saga
