@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 - Next.js, GraphQL
 
 👋 I’m looking for help with
-- Redux saga
 - Docker
+- RN
 
 📫 How to reach me: gotjd2720@gmail.com
 
