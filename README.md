@@ -1,6 +1,6 @@
 ### ✨Welcom to my profile!✨
 
-깃헙 계정을 새로 만들었습니다! => 요기 [![링크](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gotjd2720@gmail.com)]로 구경 와주세요! :)
+깃헙 계정을 새로 만들었습니다! => 요기 [![링크]()]로 구경 와주세요! :)
 
 ### 오해성 (O-HAESEONG)
 
